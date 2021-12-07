@@ -24,7 +24,7 @@
     "electron-start": "yarn workspace unigraph-dev-electron start"
   },
   "engines": {
-    "node": "^15.14.0",
+    "node": "^17",
     "npm": "^7.7.6"
   },
   "devDependencies": {
